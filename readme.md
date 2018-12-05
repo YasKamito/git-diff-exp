@@ -8,7 +8,8 @@
 
 ## Requirement
 
-- shell script (and git command)
+- git
+- nkf
 - nodejs
 - diff2html
 
